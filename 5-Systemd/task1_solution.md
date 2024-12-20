@@ -35,4 +35,4 @@ systemctl disable alteratord.service
 systemctl enable --now alteratord.service
 ```
 ## 7 Что такое таймеры?
-Запускает другие юниты по таймеру. Функционал поход на cron.
+Запускает другие юниты по таймеру. Функционал похож на cron.
