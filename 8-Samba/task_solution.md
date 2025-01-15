@@ -111,7 +111,7 @@ sudo chown -R :smb_full /home/samba/takaya_raznaya
 ```
 ```ini
 [Razn]
-Screenshot_20250116_025005.png        path = /home/samba/takaya_raznaya
+        path = /home/samba/takaya_raznaya
         browsable = yes
         writable = yes
         read only = no
