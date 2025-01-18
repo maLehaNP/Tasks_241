@@ -1,0 +1,16 @@
+.
+..
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.i18n
+.rpmmacros
+.ssh
+.tcshrc
+tmp
+.viminfo
+.zlogout
+.zprofile
+.zshenv
+.zshrc
