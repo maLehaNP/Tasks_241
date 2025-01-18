@@ -63,4 +63,4 @@ journalctl -u sshd -f
 0?
 
 
-![](Milly.png)
+![Milly.png](Milly.png)
